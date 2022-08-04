@@ -1,5 +1,20 @@
 ### Olá! Eu sou o Matheus Falcão 
 
+## 
+
+#### Seja Bem vindo ao meu Github     
+                    
+##### Sinta-se a vontade para explorar meus projetos
+
+## 
+
+- 🌱 Atualmente estou aprimorando meus conhecimentos em React com JavaScript e TypeScript e Spring-Boot com java;
+- 💬 Estou aberto a qualquer tipo de dialogo sobre qualquer tecnologia. É só chamar;
+- 📫 Contate-me em: matheusfalcao695@gmail.com;
+- 😄 Pronouns: ele/dele;
+
+##
+
 <div>
   <a href="https://github.com/matheus-551"> 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=matheus-551&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
